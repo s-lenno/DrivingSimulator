@@ -1,6 +1,6 @@
 The real "0. About this game."
 
-"DIVING", is a basic text-based Java console application that simulates the experience of owning and driving a car.
+"DRIVING", is a basic text-based Java console application that simulates the experience of owning and driving a car.
 The game features car maintencance, decision-making, and random events, creating an engaging and interactive experience in a simple text-based environment.
 You, as the player, have the opportunity to interact with various features related to your virtual car, including:
 - Starting the car
